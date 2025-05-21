@@ -1,5 +1,6 @@
 # Routen Plannung App– Methodische Grundlagen 🚀🌍
-<img src="Screenshot 2023-12-27.png" width="500"/>
+<img src="nodes_kanten.png" width="500"/>
+<img src="sortierung.png" width="500"/>
 
 
 ## Was ich gelernt habe 🎓
